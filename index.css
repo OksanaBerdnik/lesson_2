@@ -10,7 +10,7 @@ span {
     margin: 0 auto;
 }
  .leftimg {
-    float:left; /* Выравнивание по левому краю */
+    float:left; 
     margin: 7px 7px 7px 0;
  }
 .position {
